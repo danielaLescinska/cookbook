@@ -1,0 +1,31 @@
+{
+  "name": "cnu-cookbook",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.14",
+    "@fortawesome/free-solid-svg-icons": "^5.7.1",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "apisauce": "^1.0.2",
+    "bootstrap": "3.3.7",
+    "font-awesome": "^4.7.0",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^16.2.0",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-router-scroll": "^0.4.4"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.7.1",
+    "react-scripts": "^1.1.0",
+    "unexpected": "^10.37.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
